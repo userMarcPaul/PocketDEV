@@ -67,13 +67,10 @@ header:hover::after{
     color:#fff;
     text-align:center;
     position: fixed;
-    margin-top: 109vh;
+    margin-top: 10vh;
     bottom:0;
     height:15px;
     width:100%;  
-}
-.footer p{
-    margin-top:109vh;
 }
 
 .logo img{
