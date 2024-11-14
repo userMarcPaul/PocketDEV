@@ -67,9 +67,12 @@ header:hover::after{
     color:#fff;
     text-align:center;
     position:absolute;
-    margin-top:109vh;
+    margin-top: 109vh;
     bottom:0;
     width:100%;  
+}
+.footer p{
+    margin-top:109vh;
 }
 
 .logo img{
