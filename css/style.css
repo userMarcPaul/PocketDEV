@@ -259,6 +259,9 @@ section {
     .home-text{
         height: 440px;
     }
+    .footer{
+        font-size:8px;
+    }
 
     .home-text h4, h1, p{
         position: relative;
