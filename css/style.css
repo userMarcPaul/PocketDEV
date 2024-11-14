@@ -69,6 +69,7 @@ header:hover::after{
     position:absolute;
     margin-top: 109vh;
     bottom:0;
+    height:15px;
     width:100%;  
 }
 .footer p{
